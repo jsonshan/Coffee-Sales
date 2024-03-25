@@ -5,6 +5,11 @@ Coffee makes the world go around. It is one of my guilty pleasures to buy a nice
 
 I always had a deep interest in different types of coffee and the market that supplies it, so I decided to explore this dataset of Coffee Sales to see what insights I can find.
 
+
+## Coffee Sales Dashboard
+
+![image](https://github.com/jsonshan/Coffee-Sales/assets/122257933/76f975dd-8223-43f0-9c44-70821de69fc3)
+
 ## Project Overview
 This project aims to find trends and interesting statistics of Coffee supply throughout many Countries. By finding these trends in the data, we could make more data-informed
 decisions in the best Coffees to sell to businesses throughout the year.
@@ -12,10 +17,6 @@ decisions in the best Coffees to sell to businesses throughout the year.
 By performing data analysis techniques on the orders, customers, and products, I was able to join information from different sheets and create columns necessary for data analysis.
 
 ## Recommendations/Results
-
-## Dashboard
-
-![image](https://github.com/jsonshan/Coffee-Sales/assets/122257933/76f975dd-8223-43f0-9c44-70821de69fc3)
 
 
 ## Skills used
